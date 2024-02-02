@@ -13,7 +13,7 @@ This tool is designed to perform reconnaissance on USB devices connected to a sy
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/arestpin/usb-recon-hijack.git
+    git clone https://github.com/arestpin/arestpin/tree/main/usb-recon-hijack.git
     ```
 
 2. Navigate to the directory:
